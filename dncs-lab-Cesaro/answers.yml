@@ -1,0 +1,18 @@
+FirstName: Alan
+LastName: Cesaro
+MatriculationNumber: 202182
+AcademicYear: 2019-2020
+GitHubUrl: YourGithubRepositoryURL #il tuo sito
+Subnets:
+  HostsA:
+    RequiredAddresses: 402
+    SubnetAddress: 192.168.0.0
+    SubnetPrefixLength: 23
+  HostsB:
+    RequiredAddresses: 307
+    SubnetAddress: 192.168.2.0 
+    SubnetPrefixLength: 23
+  Hub:
+    RequiredAddresses: 212
+    SubnetAddress: 192.168.4.0
+    SubnetPrefixLength: 24
