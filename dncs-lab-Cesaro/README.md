@@ -135,7 +135,7 @@ The script gave me 3 different values:
 
 ## IP-Map and VLANs
 
-<img src="RETI1.png" width="650">
+<img src="RETI1.jpg" width="650">
 
 |  Device  |  Interface |      IP       | Subnet |
 | :------: | :--------: | :-----------: | :----: |
